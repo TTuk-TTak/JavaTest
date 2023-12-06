@@ -1,3 +1,9 @@
+/*
+    Basic User 
+        - parent object for all 
+
+*/
+
 public class User {
     protected String name;
     protected String id;
